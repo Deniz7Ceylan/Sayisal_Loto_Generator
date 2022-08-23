@@ -1,0 +1,30 @@
+C:\Users\deniz\source\repos\odevs\bin\Debug\net6.0\odevs.exe
+C:\Users\deniz\source\repos\odevs\bin\Debug\net6.0\odevs.deps.json
+C:\Users\deniz\source\repos\odevs\bin\Debug\net6.0\odevs.runtimeconfig.json
+C:\Users\deniz\source\repos\odevs\bin\Debug\net6.0\odevs.dll
+C:\Users\deniz\source\repos\odevs\bin\Debug\net6.0\odevs.pdb
+C:\Users\deniz\source\repos\odevs\obj\Debug\net6.0\odevs.csproj.AssemblyReference.cache
+C:\Users\deniz\source\repos\odevs\obj\Debug\net6.0\odevs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\source\repos\odevs\obj\Debug\net6.0\odevs.AssemblyInfoInputs.cache
+C:\Users\deniz\source\repos\odevs\obj\Debug\net6.0\odevs.AssemblyInfo.cs
+C:\Users\deniz\source\repos\odevs\obj\Debug\net6.0\odevs.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\odevs\obj\Debug\net6.0\odevs.dll
+C:\Users\deniz\source\repos\odevs\obj\Debug\net6.0\refint\odevs.dll
+C:\Users\deniz\source\repos\odevs\obj\Debug\net6.0\odevs.pdb
+C:\Users\deniz\source\repos\odevs\obj\Debug\net6.0\odevs.genruntimeconfig.cache
+C:\Users\deniz\source\repos\odevs\obj\Debug\net6.0\ref\odevs.dll
+C:\Users\deniz\source\repos\Sayısal Loto Generator\bin\Debug\net6.0\odevs.exe
+C:\Users\deniz\source\repos\Sayısal Loto Generator\bin\Debug\net6.0\odevs.deps.json
+C:\Users\deniz\source\repos\Sayısal Loto Generator\bin\Debug\net6.0\odevs.runtimeconfig.json
+C:\Users\deniz\source\repos\Sayısal Loto Generator\bin\Debug\net6.0\odevs.dll
+C:\Users\deniz\source\repos\Sayısal Loto Generator\bin\Debug\net6.0\odevs.pdb
+C:\Users\deniz\source\repos\Sayısal Loto Generator\obj\Debug\net6.0\odevs.csproj.AssemblyReference.cache
+C:\Users\deniz\source\repos\Sayısal Loto Generator\obj\Debug\net6.0\odevs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\source\repos\Sayısal Loto Generator\obj\Debug\net6.0\odevs.AssemblyInfoInputs.cache
+C:\Users\deniz\source\repos\Sayısal Loto Generator\obj\Debug\net6.0\odevs.AssemblyInfo.cs
+C:\Users\deniz\source\repos\Sayısal Loto Generator\obj\Debug\net6.0\odevs.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\Sayısal Loto Generator\obj\Debug\net6.0\odevs.dll
+C:\Users\deniz\source\repos\Sayısal Loto Generator\obj\Debug\net6.0\refint\odevs.dll
+C:\Users\deniz\source\repos\Sayısal Loto Generator\obj\Debug\net6.0\odevs.pdb
+C:\Users\deniz\source\repos\Sayısal Loto Generator\obj\Debug\net6.0\odevs.genruntimeconfig.cache
+C:\Users\deniz\source\repos\Sayısal Loto Generator\obj\Debug\net6.0\ref\odevs.dll
